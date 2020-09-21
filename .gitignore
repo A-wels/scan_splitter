@@ -1,0 +1,6 @@
+venv/
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
